@@ -2,7 +2,7 @@
 
 Nix expression to install [chunkWM](https://koekeishiya.github.io/chunkwm/) on darwin nix environment. 
 Expression was shamelessly stolen from https://github.com/peel/dotfiles/. 
-All the kudos should go to @peel.
+All the kudos should go to [@peel](https://github.com/peel).
 
 ## Installation
 
