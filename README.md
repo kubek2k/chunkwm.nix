@@ -9,7 +9,7 @@ All the kudos should go to [@peel](https://github.com/peel).
 To use it you need to add this to your darwin nix configuration 
 (somewhere along the lines of `~/.nixpkgs/darwin-configuration.nix`):
 
-```
+```nix
 let 
     overlays = self: super: rec {
         ...
