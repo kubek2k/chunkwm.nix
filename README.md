@@ -1,7 +1,8 @@
 # ChunkWM nix expression
 
-Nix expression to install chunkWM on darwin nix environment. 
-Expression was shamelessly stolen from @peel/dotfiles. All the kudos should go for him.
+Nix expression to install [chunkWM](https://koekeishiya.github.io/chunkwm/) on darwin nix environment. 
+Expression was shamelessly stolen from https://github.com/peel/dotfiles/. 
+All the kudos should go to @peel.
 
 ## Installation
 
