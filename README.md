@@ -1,8 +1,6 @@
 # chunkwm nix expression
 
 Nix expression to install [chunkwm](https://koekeishiya.github.io/chunkwm/) on darwin nix environment. 
-Expression was shamelessly stolen from https://github.com/peel/dotfiles/. 
-All the kudos should go to [@peel](https://github.com/peel).
 
 ## Installation
 
@@ -31,3 +29,7 @@ in
    services.chunkwm.plugins.dir = "/run/current-system/sw/bin/chunkwm-plugins/";
    ...
 ```
+
+## License
+
+Distributed in hope to be useful under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
